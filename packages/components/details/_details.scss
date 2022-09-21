@@ -111,6 +111,7 @@ $expander-border-hover-color: $color_nhsuk-grey-3;
   }
 
   .nhsuk-details__summary {
+    border: 2px solid red;
     background-color: $color_nhsuk-white;
     border-top: $nhsuk-focus-width solid transparent;
     display: block;
